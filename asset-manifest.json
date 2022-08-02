@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/product-preview-card-challenge/static/js/main.ac40ebab.js",
+    "static/media/image-product-desktop.jpg": "/product-preview-card-challenge/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/product-preview-card-challenge/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/product-preview-card-challenge/index.html",
+    "main.ac40ebab.js.map": "/product-preview-card-challenge/static/js/main.ac40ebab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac40ebab.js"
+  ]
+}
