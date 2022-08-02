@@ -3620,9 +3620,9 @@ depd@~1.1.2:
   resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.2.tgz#9bcd52e14c097763e749b274c4346ed2e560b5a9"
   integrity sha512-7emPTl6Dpo6JRXOXjLRxck+FlLRX5847cLKEn00PLAgc3g2hTZZgr+e4c2v6QpSmLeFP3n5yUo7ft6avBK/5jQ==
 
-"design-portfolio-ds@github:m-amaya/design-portfolio-ds.git#v1.0.1":
-  version "1.0.1"
-  resolved "https://codeload.github.com/m-amaya/design-portfolio-ds/tar.gz/e01343b9fa65b901a96e8cb1969d2eeb809487dc"
+"design-system@github:m-amaya/product-preview-card-ds.git":
+  version "1.0.0"
+  resolved "https://codeload.github.com/m-amaya/product-preview-card-ds/tar.gz/8a5f91ef24363640ca6d6f4bc0e52e4b999f1e89"
   dependencies:
     "@stitches/react" "^1.2.8"
     hex-rgb "^5.0.0"

@@ -38,7 +38,7 @@
     "@types/node": "^18.6.3",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "design-portfolio-ds": "github:m-amaya/product-preview-card-ds.git",
+    "design-system": "github:m-amaya/product-preview-card-ds.git",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",

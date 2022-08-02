@@ -1,26 +1,24 @@
-import { globalStyles } from "design-portfolio-ds";
+import { globalStyles, stitches } from "design-system";
 import { FC } from "react";
 
-import Header from "~/components/Header";
-import HeroTitle from "~/components/HeroTitle";
-import HeroGrid from "~/components/HeroGrid";
-import AboutMe from "~/components/AboutMe";
-import MyWork from "~/components/MyWork";
-import BookMe from "~/components/BookMe";
+const Main = stitches.styled("main", {
+  alignItems: "center",
+  display: "flex",
+  height: "100vh",
+  justifyContent: "center",
+  padding: 16,
+  width: "100%",
+});
+
+import Card from "~/components/Card";
 
 const HomePage: FC = () => {
   globalStyles();
 
   return (
-    <main>
-      <Header />
-      <HeroTitle />
-      <HeroGrid />
-      <AboutMe />
-      <MyWork />
-      <BookMe />
-      <Header asFooter />
-    </main>
+    <Main>
+      <Card />
+    </Main>
   );
 };
 
